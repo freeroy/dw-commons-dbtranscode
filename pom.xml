@@ -10,7 +10,7 @@
 	<artifactId>dw-commons-dbtranscode</artifactId>
 	<packaging>jar</packaging>
 	<name>dw-commons-dbtranscode</name>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<description>数据库转码包</description>
 
 	<!-- scm配置 -->
